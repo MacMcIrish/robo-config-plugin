@@ -1,0 +1,16 @@
+{
+  "target": "src/core/sdu.js",
+  "format": "txt",
+  "strategy": "overwrite",
+  "snippets": [
+    "service/src/core/sdu.js"
+  ],
+  "requires": [
+    "javascript",
+    "aws",
+    "serverless"
+  ],
+  "purpose": [
+    "Define Service Discovery Util setup."
+  ]
+}

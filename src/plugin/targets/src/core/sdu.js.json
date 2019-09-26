@@ -1,0 +1,7 @@
+{
+  "description": "Service Discovery Util.",
+  "details": ["Initialization for Service Discovery Util."],
+  "formats": ["other"],
+  "requires": ["aws", "serverless"],
+  "website": null
+}

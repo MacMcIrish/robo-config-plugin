@@ -1,0 +1,7 @@
+{
+  "tasks": [
+    "service-src-core-sdu",
+    "service-src-handler-trigger-register"
+  ],
+  "description": "Manage service project structure."
+}
