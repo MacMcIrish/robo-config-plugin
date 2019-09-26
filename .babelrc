@@ -1,5 +1,10 @@
 {
   "presets": [],
-  "plugins": ["@babel/plugin-proposal-object-rest-spread"],
+  "plugins": [
+    "@babel/plugin-proposal-object-rest-spread"
+  ],
+  "ignore": [
+    "./src/plugin"
+  ],
   "sourceMaps": "inline"
 }
