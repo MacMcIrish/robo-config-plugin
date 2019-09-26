@@ -1,0 +1,6 @@
+{
+  "tasks": [
+    "struct/#service"
+  ],
+  "description": "Manage LoopMediaGroup service setup."
+}

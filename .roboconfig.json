@@ -1,0 +1,16 @@
+{
+  "@blackflux/robo-config-plugin": {
+    "tasks": [
+      "assorted/@npm-closedsource"
+    ],
+    "variables": {
+      "repoKey": "loopmediagroup/robo-config-plugin",
+      "packageName": "@loopmediagroup/robo-config-plugin",
+      "projectName": "robo-config-plugin",
+      "owner": "simlu",
+      "ownerName": "Loop Media Group",
+      "mergeBot": "GITL-BuildBot",
+      "circleCiReadToken": "ea02b0f7572c4ab4ecc45a54d669627d01f6bb70"
+    }
+  }
+}

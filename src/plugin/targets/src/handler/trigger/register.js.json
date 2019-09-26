@@ -1,0 +1,7 @@
+{
+  "description": "Service Registration Hook.",
+  "details": ["Register the service with service discovery on deploy."],
+  "formats": ["other"],
+  "requires": ["aws", "serverless"],
+  "website": null
+}

@@ -1,0 +1,16 @@
+{
+  "target": "src/handler/trigger/register.js",
+  "format": "txt",
+  "strategy": "overwrite",
+  "snippets": [
+    "service/src/handler/trigger/register.js"
+  ],
+  "requires": [
+    "javascript",
+    "aws",
+    "serverless"
+  ],
+  "purpose": [
+    "Define Service Discovery registration hook setup."
+  ]
+}
