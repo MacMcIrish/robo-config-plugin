@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/robo-config-plugin-lmg.iml" filepath="$PROJECT_DIR$/.idea/robo-config-plugin-lmg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/robo-config-plugin.iml" filepath="$PROJECT_DIR$/.idea/robo-config-plugin.iml" />
     </modules>
   </component>
 </project>
